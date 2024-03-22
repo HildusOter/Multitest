@@ -1,0 +1,29 @@
+.multi-step-form-page{
+  display: none;
+}
+.current-page-1 .page-1{
+  display: block;
+}
+.current-page-1.button-1 {
+    background-color: aqua;
+    color: blue;
+}
+
+/*alt over kan gjentas*/ 
+
+
+.current-page-1 .page-2{
+  display: block;
+
+
+}
+.current-page-1 .page-3{
+  display: block;
+}
+.current-page-1 .page-4{
+  display: block;
+}
+
+/*Styling for navigasjonsmenyen */
+
+/*Styling for page 1 */
